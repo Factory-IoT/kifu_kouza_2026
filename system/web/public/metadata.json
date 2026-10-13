@@ -1,0 +1,16 @@
+{
+  "project_key": "kifu-kouza-2026",
+  "display_name": "2026年度 寄付講座 技術者と社会",
+  "web_url": "http://192.168.1.64:3110/",
+  "management_url": "http://192.168.1.64:3110/admin.html",
+  "metadata_url": "http://192.168.1.64:3110/metadata.json",
+  "links": [
+    {"title": "講義管理・セリフダウンロード", "url": "http://192.168.1.64:3110/admin.html"},
+    {"title": "講義スライド", "url": "http://192.168.1.64:3110/"},
+    {"title": "講師画面", "url": "http://192.168.1.64:3110/presenter.html"},
+    {"title": "操作・運用ガイド", "url": "http://192.168.1.64:3110/guide.html"},
+    {"title": "画像出典一覧", "url": "http://192.168.1.64:3110/assets-manifest.json"}
+  ],
+  "repository_url": "https://github.com/Factory-IoT/kifu_kouza_2026",
+  "deployment": {"server": "DB-S01", "port": 3110, "container": "kifu-kouza-2026-web", "path": "/home/minoru/kifu_kouza_2026/system"}
+}

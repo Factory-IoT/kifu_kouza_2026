@@ -1,0 +1,6 @@
+body.presenting #stage{height:100dvh}
+body.presenting .controls{display:none}
+.visual img{width:100%;height:100%;object-fit:contain}
+.admin-link{color:#eee;text-decoration:none;border:1px solid #54665d;border-radius:4px;padding:7px 14px;font-size:14px}
+.admin-link:hover{background:#385044}
+@media print{body.presenting #stage{height:auto}}

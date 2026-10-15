@@ -144,86 +144,6 @@
     "copied_on": "2026-10-12"
   },
   {
-    "file": "assets/pptx-group.png",
-    "source_repository_path": "スライド3（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-map.png",
-    "source_repository_path": "スライド4（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-auto-parts.png",
-    "source_repository_path": "スライド5（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-blow-products.png",
-    "source_repository_path": "スライド6（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-naphtha.png",
-    "source_repository_path": "スライド8（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-brush.png",
-    "source_repository_path": "スライド18（kifu_src.pptx）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
-    "copied_on": "2026-10-13"
-  },
-  {
-    "file": "assets/pptx-wpc.png",
-    "source_repository_path": "スライド2（技術紹介_250626）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-15 ユーザーが講義セリフ修正に合わせ当スライドの活用を指示",
-    "copied_on": "2026-10-15"
-  },
-  {
-    "file": "assets/pptx-rice.png",
-    "source_repository_path": "スライド5（技術紹介_250626）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-15 ユーザーが講義セリフ修正に合わせ当スライドの活用を指示",
-    "copied_on": "2026-10-15"
-  },
-  {
-    "file": "assets/pptx-bioplastic-map.png",
-    "source_repository_path": "スライド8（技術紹介_250626）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-15 ユーザーが講義セリフ修正に合わせ当スライドの活用を指示",
-    "copied_on": "2026-10-15"
-  },
-  {
-    "file": "assets/pptx-biodegrade.png",
-    "source_repository_path": "スライド11（技術紹介_250626）",
-    "source_site": "https://www.minorukasei.co.jp/",
-    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
-    "permission": "2026-10-15 ユーザーが講義セリフ修正に合わせ当スライドの活用を指示",
-    "copied_on": "2026-10-15"
-  },
-  {
     "file": "assets/group-policy.jpg",
     "source_repository_path": "グループ方針.jpg（坪井１共有フォルダ）",
     "source_site": "https://minorugroup.com/",
@@ -334,5 +254,53 @@
     "source_note": "みのる化成 技術開発部の講義用スライドから切り出した画像",
     "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
     "copied_on": "2026-10-15"
+  },
+  {
+    "file": "assets/pptx-group.png",
+    "source_repository_path": "スライド3（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/pptx-map.png",
+    "source_repository_path": "スライド4（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/pptx-auto-parts.png",
+    "source_repository_path": "スライド5（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/pptx-blow-products.png",
+    "source_repository_path": "スライド6（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/pptx-naphtha.png",
+    "source_repository_path": "スライド8（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/pptx-brush.png",
+    "source_repository_path": "スライド18（kifu_src.pptx）",
+    "source_site": "https://www.minorukasei.co.jp/",
+    "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
+    "copied_on": "2026-10-13"
   }
 ]

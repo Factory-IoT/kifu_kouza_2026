@@ -11,3 +11,7 @@
 .slide .tile{background:#fff;border:2px solid #cfd9cc;border-radius:14px;padding:14px 18px;text-align:center;line-height:1.4}.slide .tile b{color:#17825b}.slide .arrow{align-self:center;font-size:40px;color:#17825b}
 .slide .row{display:flex;gap:10px;align-items:stretch}.slide .tile{font-size:24px}.slide .sdgs .tile,.slide.sdgs .tile{font-size:23px}.slide .tile span[style*="font-size:5"],.slide .tile span[style*="font-size:6"]{line-height:1.2}
 .slide.full .content{height:560px}.slide.full .visual{height:560px}.slide .bare{height:595px}.slide .bare .visual{height:595px}.slide.sdgs .copy{flex:0 0 520px}
+.slide .bare .gallery img{max-height:500px}.slide .gallery figcaption{font-size:30px;font-weight:700}
+.slide .cardwrap{width:100%}.slide .cardwrap .lead{font-size:30px;margin:0 0 18px}.slide .cards{display:flex;gap:30px}
+.slide .sdgcard{flex:1;min-width:0;background:#fff;border:2px solid #d5ddd1;border-top:12px solid;border-radius:16px;padding:26px 28px;display:flex;flex-direction:column;align-items:center;gap:18px;box-shadow:0 4px 14px #0002;height:480px}
+.slide .sdgcard img{width:200px;height:200px;border-radius:6px;flex:none}.slide .sdgcard h3{margin:0 0 10px;font-size:32px;text-align:center}.slide .sdgcard ul{font-size:27px;line-height:1.5}.slide .sdgcard li{margin:0 0 8px;padding-left:16px}

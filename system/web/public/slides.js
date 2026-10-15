@@ -103,28 +103,29 @@ const slides = [
     "presenter": "坪井",
     "minutes": 2,
     "title": "製品紹介：自動車部品が売上の半分",
-    "image": "pptx-auto-parts.png",
-    "alt": "自動車部品を中心とした製品群",
-    "credit": "みのる化成 技術開発部の講義用スライドから切り出した画像",
     "sources": [
       "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
       "https://www.minorukasei.co.jp/product/"
     ],
     "notes": "みのる化成の売上のおよそ半分は、自動車部品です。エアコンの風を通す空調ダクトや、スポイラーなど、多種多様な部品を作っています。車の中には、皆さんが普段目にしない、見えない樹脂部品がたくさんあります。\n【進行】写真の部品を指しながら紹介する。顧客名や車種名は出さない。学生に「身の回りの見えない樹脂部品」を考えてもらってもよい。",
     "layout": "bare-slide",
-    "bare": true
+    "bare": true,
+    "images": [
+      {
+        "src": "duct.jpg",
+        "cap": "空調ダクト"
+      },
+      {
+        "src": "spoiler.jpg",
+        "cap": "スポイラー"
+      }
+    ]
   },
   {
     "section": "前半 · 持続可能性",
     "presenter": "坪井",
     "minutes": 1,
-    "title": "製品紹介：農機・仮設トイレ・介護機器",
-    "lead": "自動車以外にも、暮らしと仕事を支える部品。",
-    "points": [
-      "農業機械：キャビンルーフ、燃料タンク",
-      "仮設トイレ",
-      "介護用ベッド・浴槽の部品"
-    ],
+    "title": "製品紹介：農機・仮設トイレなど",
     "images": [
       {
         "src": "roof.jpg",
@@ -133,29 +134,111 @@ const slides = [
       {
         "src": "fuel-tank.jpg",
         "cap": "燃料タンク"
+      },
+      {
+        "src": "toilet.jpg",
+        "cap": "仮設トイレ"
       }
     ],
     "sources": [
       "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
       "https://www.minorukasei.co.jp/product/"
     ],
-    "notes": "そのほかにも、農業機械のキャビンルーフや燃料タンク、仮設トイレ、介護用のベッドや浴槽の部品も作っています。\n【進行】農機部品の写真を指す。仮設トイレ・介護機器は写真なしで口頭で触れる。"
+    "notes": "そのほかにも、農業機械のキャビンルーフや燃料タンク、仮設トイレ、介護用のベッドや浴槽の部品も作っています。\n【進行】農機部品の写真を指す。介護用ベッド・浴槽の部品は写真なしで口頭で触れる。",
+    "layout": "bare-slide",
+    "bare": true
   },
   {
     "section": "前半 · 持続可能性",
     "presenter": "坪井",
-    "minutes": 2,
-    "title": "製品紹介：スタジアムから、海の上まで",
-    "image": "pptx-blow-products.png",
-    "alt": "スタジアムシート、マリーナ用浮桟橋、食品容器",
-    "credit": "みのる化成 技術開発部の講義用スライドから切り出した画像",
+    "minutes": 1,
+    "layout": "bare-slide",
+    "bare": true,
     "sources": [
       "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
       "https://www.minorukasei.co.jp/technology/technology_2.php"
     ],
-    "notes": "スタジアムの座席は、みのる化成の製品の例です。大きな球場やアリーナの観客席に使われています。海の上に浮かぶ、マリーナ用の浮桟橋も作っています。大型のブロー成形機は、日本最大級の規模で、大きな製品も一体で作ることができます。また、食品容器のように、毎日の食卓で目にする製品もあります。\n【進行】写真を指しながら説明する。大型ブロー成形機の規模は公式サイトの「日本最大級」を使う（原稿の「世界最大級」は要確認）。",
+    "title": "製品紹介：スタジアムシート",
+    "images": [
+      {
+        "src": "stadium-seat.png",
+        "cap": "スタジアムシート"
+      }
+    ],
+    "notes": "スタジアムの座席は、みのる化成の製品の例です。\n【進行】座席の写真を指す。"
+  },
+  {
+    "section": "前半 · 持続可能性",
+    "presenter": "坪井",
+    "minutes": 1,
     "layout": "bare-slide",
-    "bare": true
+    "bare": true,
+    "sources": [
+      "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
+      "https://www.minorukasei.co.jp/technology/technology_2.php"
+    ],
+    "title": "製品紹介：スタジアムシート（設置例）",
+    "images": [
+      {
+        "src": "stadium-1.png",
+        "cap": "野球場"
+      },
+      {
+        "src": "stadium-2.png",
+        "cap": "アリーナ"
+      },
+      {
+        "src": "stadium-3.png",
+        "cap": "ドーム"
+      }
+    ],
+    "notes": "大きな球場やアリーナの観客席に使われています。\n【進行】施設名は出さない。"
+  },
+  {
+    "section": "前半 · 持続可能性",
+    "presenter": "坪井",
+    "minutes": 1,
+    "layout": "bare-slide",
+    "bare": true,
+    "sources": [
+      "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
+      "https://www.minorukasei.co.jp/technology/technology_2.php"
+    ],
+    "title": "製品紹介：マリーナ用の浮桟橋",
+    "images": [
+      {
+        "src": "pier.png",
+        "cap": "マリーナ用浮桟橋"
+      },
+      {
+        "src": "pier-float.png",
+        "cap": "浮桟橋の部品"
+      }
+    ],
+    "notes": "海の上に浮かぶ、マリーナ用の浮桟橋も作っています。大型のブロー成形機は、日本最大級の規模で、大きな製品も一体で作ることができます。\n【進行】大型ブロー成形機の規模は公式サイトの「日本最大級」を使う（原稿の「世界最大級」は要確認）。"
+  },
+  {
+    "section": "前半 · 持続可能性",
+    "presenter": "坪井",
+    "minutes": 1,
+    "layout": "bare-slide",
+    "bare": true,
+    "sources": [
+      "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
+      "https://www.minorukasei.co.jp/technology/technology_2.php"
+    ],
+    "title": "製品紹介：食品容器",
+    "images": [
+      {
+        "src": "dessertcup.jpg",
+        "cap": "食品容器"
+      },
+      {
+        "src": "food-containers.png",
+        "cap": "毎日の食卓で目にする容器"
+      }
+    ],
+    "notes": "また、食品容器のように、毎日の食卓で目にする製品もあります。\n【進行】商品名・顧客名は出さない。"
   },
   {
     "section": "前半 · 持続可能性",
@@ -198,41 +281,33 @@ const slides = [
     "presenter": "坪井",
     "minutes": 2,
     "title": "社会背景①：SDGsとの接点（目標9・12）",
-    "lead": "四つの重点目標のうち、まず二つ。",
-    "points": [
-      "**目標9 産業と技術革新**：バイオマスを混ぜる技術、流動制御と高精度な金型設計",
-      "**目標12 つくる責任 つかう責任**：薄肉軽量化、単一素材（モノマテリアル）化、端材の再利用"
-    ],
     "sources": [
       "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
       "SDGsロゴ：国連広報センター https://www.unic.or.jp/"
     ],
     "notes": "次に、社会背景です。素材メーカーの技術開発は、SDGsの複数の目標と深くつながっています。四つの重点目標のうち、まず二つです。目標9は、産業と技術革新です。木粉などの未利用のバイオマスを樹脂に均一に混ぜる技術や、精度の高い金型の設計が貢献します。目標12は、つくる責任、つかう責任です。製品の強さを保ったまま、樹脂の量を限界まで減らす薄肉軽量化や、リサイクルしやすい単一素材化、工場の端材の再利用に取り組みます。\n【進行】目標番号とキーワードを対応させて説明する。",
-    "layout": "sdgs",
-    "html": "<div style=\"width:100%\"><div class=\"sdg-row\"><img src=\"assets/sdg-09.png\" alt=\"SDGs 09\"><img src=\"assets/sdg-12.png\" alt=\"SDGs 12\"></div><div class=\"row\" style=\"margin-top:30px;gap:12px;justify-content:center\"><div class=\"tile\" >🌳<br>木粉などの<br>未利用バイオマス</div><div class=\"arrow\">＋</div><div class=\"tile\" >🏭<br>精度の高い<br>金型設計</div><div class=\"arrow\">→</div><div class=\"tile\" >♻️<br>薄肉軽量・単一素材<br>端材の再利用</div></div></div>"
+    "layout": "bare-slide",
+    "bare": true,
+    "html": "<div class=\"cardwrap\"><p class=\"lead\">四つの重点目標のうち、まず二つ。</p><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#FD6925\"><img src=\"assets/sdg-09.png\" alt=\"SDGs 目標09\"><div><h3>目標9 産業と技術革新</h3><ul><li>バイオマスを混ぜる技術（木粉などの未利用資源）</li><li>流動制御と高精度な金型設計</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#BF8B2E\"><img src=\"assets/sdg-12.png\" alt=\"SDGs 目標12\"><div><h3>目標12 つくる責任 つかう責任</h3><ul><li>薄肉軽量化</li><li>単一素材（モノマテリアル）化</li><li>工場の端材の再利用</li></ul></div></div></div></div>"
   },
   {
     "section": "前半 · 持続可能性",
     "presenter": "坪井",
     "minutes": 2,
     "title": "社会背景②：SDGsとの接点（目標13・14）",
-    "lead": "残りの二つ。",
-    "points": [
-      "**目標13 気候変動対策**：植物由来原料で、ライフサイクルのCO₂を削減",
-      "**目標14 海の豊かさを守る**：海洋流出の防止、生分解性ポリマー、使い捨て品の代替設計"
-    ],
     "sources": [
       "講義用スライド（みのる化成 技術開発部 坪井、2026年版）",
       "SDGsロゴ：国連広報センター https://www.unic.or.jp/"
     ],
     "notes": "残りの二つです。目標13は、気候変動対策です。原料の調達から廃棄までの、ライフサイクル全体で二酸化炭素を減らします。植物由来の原料は、光合成で二酸化炭素を固定しているので、実質的な排出を抑えられます。化石資源への依存を減らすことが、サプライチェーン全体の排出削減にもなります。目標14は、海の豊かさを守ることです。微生物の働きで、最終的に水と二酸化炭素に分解される、生分解性のポリマーの研究があります。使い捨ての品物の、自然環境への負荷を減らす設計も必要です。\n【進行】前のページとあわせ、四つの目標を振り返る。",
-    "layout": "sdgs",
-    "html": "<div style=\"width:100%\"><div class=\"sdg-row\"><img src=\"assets/sdg-13.png\" alt=\"SDGs 13\"><img src=\"assets/sdg-14.png\" alt=\"SDGs 14\"></div><div class=\"row\" style=\"margin-top:30px;gap:12px;justify-content:center\"><div class=\"tile\" >🌱<br>植物由来原料<br>CO₂を固定</div><div class=\"arrow\">→</div><div class=\"tile\" >🌍<br>ライフサイクルで<br>CO₂削減</div><div class=\"tile\" >🌊<br>生分解性ポリマー<br>海への負荷減</div></div></div>"
+    "layout": "bare-slide",
+    "bare": true,
+    "html": "<div class=\"cardwrap\"><p class=\"lead\">残りの二つ。</p><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#3F7E44\"><img src=\"assets/sdg-13.png\" alt=\"SDGs 目標13\"><div><h3>目標13 気候変動に具体的な対策を</h3><ul><li>植物由来原料で、ライフサイクルのCO₂を削減</li><li>化石資源への依存を減らす</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#0A97D9\"><img src=\"assets/sdg-14.png\" alt=\"SDGs 目標14\"><div><h3>目標14 海の豊かさを守ろう</h3><ul><li>海洋流出の防止</li><li>生分解性ポリマー</li><li>使い捨て品の代替設計</li></ul></div></div></div></div>"
   },
   {
     "section": "前半 · 持続可能性",
     "presenter": "坪井",
-    "minutes": 3,
+    "minutes": 2,
     "title": "国の指針①：3R＋Renewable",
     "lead": "設計から回収・リサイクルまでが対象。",
     "points": [
@@ -423,7 +498,7 @@ const slides = [
   {
     "section": "前半 · 持続可能性",
     "presenter": "坪井",
-    "minutes": 3,
+    "minutes": 2,
     "title": "事例：ブラシ開発の歩み",
     "lead": "コストの壁を、形と材料の工夫で越える。",
     "points": [

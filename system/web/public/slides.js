@@ -288,7 +288,7 @@ const slides = [
     "notes": "次に、社会背景です。素材メーカーの技術開発は、SDGsの複数の目標と深くつながっています。四つの重点目標のうち、まず二つです。目標9は、産業と技術革新です。木粉などの未利用のバイオマスを樹脂に均一に混ぜる技術や、精度の高い金型の設計が貢献します。目標12は、つくる責任、つかう責任です。製品の強さを保ったまま、樹脂の量を限界まで減らす薄肉軽量化や、リサイクルしやすい単一素材化、工場の端材の再利用に取り組みます。\n【進行】目標番号とキーワードを対応させて説明する。",
     "layout": "bare-slide",
     "bare": true,
-    "html": "<div class=\"cardwrap\"><p class=\"lead\">四つの重点目標のうち、まず二つ。</p><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#FD6925\"><img src=\"assets/sdg-09.png\" alt=\"SDGs 目標09\"><div><h3>目標9 産業と技術革新</h3><ul><li>バイオマスを混ぜる技術（木粉などの未利用資源）</li><li>流動制御と高精度な金型設計</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#BF8B2E\"><img src=\"assets/sdg-12.png\" alt=\"SDGs 目標12\"><div><h3>目標12 つくる責任 つかう責任</h3><ul><li>薄肉軽量化</li><li>単一素材（モノマテリアル）化</li><li>工場の端材の再利用</li></ul></div></div></div></div>"
+    "html": "<div class=\"cardwrap\"><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#FD6925\"><img src=\"assets/sdg-09.png\" alt=\"SDGs 目標09\"><div><h3>目標9 産業と技術革新</h3><ul><li>バイオマスを混ぜる技術（木粉などの未利用資源）</li><li>流動制御と高精度な金型設計</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#BF8B2E\"><img src=\"assets/sdg-12.png\" alt=\"SDGs 目標12\"><div><h3>目標12 つくる責任 つかう責任</h3><ul><li>薄肉軽量化</li><li>単一素材（モノマテリアル）化</li><li>工場の端材の再利用</li></ul></div></div></div></div>"
   },
   {
     "section": "前半 · 持続可能性",
@@ -302,7 +302,7 @@ const slides = [
     "notes": "残りの二つです。目標13は、気候変動対策です。原料の調達から廃棄までの、ライフサイクル全体で二酸化炭素を減らします。植物由来の原料は、光合成で二酸化炭素を固定しているので、実質的な排出を抑えられます。化石資源への依存を減らすことが、サプライチェーン全体の排出削減にもなります。目標14は、海の豊かさを守ることです。微生物の働きで、最終的に水と二酸化炭素に分解される、生分解性のポリマーの研究があります。使い捨ての品物の、自然環境への負荷を減らす設計も必要です。\n【進行】前のページとあわせ、四つの目標を振り返る。",
     "layout": "bare-slide",
     "bare": true,
-    "html": "<div class=\"cardwrap\"><p class=\"lead\">残りの二つ。</p><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#3F7E44\"><img src=\"assets/sdg-13.png\" alt=\"SDGs 目標13\"><div><h3>目標13 気候変動に具体的な対策を</h3><ul><li>植物由来原料で、ライフサイクルのCO₂を削減</li><li>化石資源への依存を減らす</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#0A97D9\"><img src=\"assets/sdg-14.png\" alt=\"SDGs 目標14\"><div><h3>目標14 海の豊かさを守ろう</h3><ul><li>海洋流出の防止</li><li>生分解性ポリマー</li><li>使い捨て品の代替設計</li></ul></div></div></div></div>"
+    "html": "<div class=\"cardwrap\"><div class=\"cards\"><div class=\"sdgcard\" style=\"border-top-color:#3F7E44\"><img src=\"assets/sdg-13.png\" alt=\"SDGs 目標13\"><div><h3>目標13 気候変動に具体的な対策を</h3><ul><li>植物由来原料で、ライフサイクルのCO₂を削減</li><li>化石資源への依存を減らす</li></ul></div></div><div class=\"sdgcard\" style=\"border-top-color:#0A97D9\"><img src=\"assets/sdg-14.png\" alt=\"SDGs 目標14\"><div><h3>目標14 海の豊かさを守ろう</h3><ul><li>海洋流出の防止</li><li>生分解性ポリマー</li><li>使い捨て品の代替設計</li></ul></div></div></div></div>"
   },
   {
     "section": "前半 · 持続可能性",

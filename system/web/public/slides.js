@@ -128,9 +128,8 @@ const slides = [
     "title": "製品紹介：農機・仮設トイレなど",
     "images": [
       {
-        "src": "roof.jpg",
-        "cap": "コンバインのキャビンルーフ",
-        "todo": "コンバインのキャビンルーフにして、解像度を良くする。"
+        "src": "sr-roof.jpg",
+        "cap": "コンバインのキャビンルーフ"
       },
       {
         "src": "fuel-tank.jpg",

@@ -112,14 +112,12 @@ const slides = [
     "bare": true,
     "images": [
       {
-        "src": "duct.jpg",
-        "cap": "空調ダクト",
-        "todo": "解像度よくしたい！もしくは先日のOTEX撮影のモノに差し替え。"
+        "src": "sr-duct.jpg",
+        "cap": "空調ダクト"
       },
       {
-        "src": "spoiler.jpg",
-        "cap": "スポイラー",
-        "todo": "解像度よくしたい！もしくは先日のOTEX撮影のモノに差し替え。"
+        "src": "sr-spoiler.jpg",
+        "cap": "スポイラー"
       }
     ]
   },
@@ -164,24 +162,20 @@ const slides = [
     "title": "製品紹介：スタジアムシート",
     "images": [
       {
-        "src": "stadium-seat.png",
-        "cap": "スタジアムシート",
-        "todo": "解像度を上げてください。"
+        "src": "sr-stadium-seat.png",
+        "cap": "スタジアムシート"
       },
       {
-        "src": "stadium-1.png",
-        "cap": "野球場",
-        "todo": "解像度を上げてください。"
+        "src": "sr-stadium-1.png",
+        "cap": "野球場"
       },
       {
-        "src": "stadium-2.png",
-        "cap": "アリーナ",
-        "todo": "解像度を上げてください。"
+        "src": "sr-stadium-2.png",
+        "cap": "アリーナ"
       },
       {
-        "src": "stadium-3.png",
-        "cap": "ドーム",
-        "todo": "解像度を上げてください。"
+        "src": "sr-stadium-3.png",
+        "cap": "ドーム"
       }
     ],
     "notes": "スタジアムの座席は、みのる化成の製品の例です。大きな球場やアリーナの観客席に使われています。\n【進行】座席の写真と設置例の写真を指す。施設名は出さない。",
@@ -200,14 +194,12 @@ const slides = [
     "title": "製品紹介：マリーナ用の浮桟橋",
     "images": [
       {
-        "src": "pier.png",
-        "cap": "マリーナ用浮桟橋",
-        "todo": "解像度を上げてください。"
+        "src": "sr-pier.png",
+        "cap": "マリーナ用浮桟橋"
       },
       {
-        "src": "pier-float.png",
-        "cap": "浮桟橋の部品",
-        "todo": "解像度を上げてください。"
+        "src": "sr-pier-float.png",
+        "cap": "浮桟橋の部品"
       }
     ],
     "notes": "海の上に浮かぶ、マリーナ用の浮桟橋も作っています。大型のブロー成形機は、日本最大級の規模で、大きな製品も一体で作ることができます。\n【進行】大型ブロー成形機の規模は公式サイトの「日本最大級」を使う（原稿の「世界最大級」は要確認）。"

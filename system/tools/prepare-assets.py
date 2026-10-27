@@ -88,9 +88,9 @@ manifest.append({
     'permission': '2026-10-12 ユーザーが本講義用の画像利用を許可',
     'copied_on': '2026-10-12',
 })
-# Keep the entries created by extract-pptx-assets.py.
+# Keep the entries created by extract-pptx-assets.py and the super-resolution step (system/tools/superres).
 previous = PUBLIC / 'assets-manifest.json'
 if previous.is_file():
-    manifest.extend(m for m in json.loads(previous.read_text(encoding='utf-8')) if m['file'].startswith('assets/pptx-'))
+    manifest.extend(m for m in json.loads(previous.read_text(encoding='utf-8')) if m['file'].startswith(('assets/pptx-', 'assets/sr-')))
 (PUBLIC / 'assets-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
 print(f'Copied {len(images)} images.')

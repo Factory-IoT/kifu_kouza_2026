@@ -302,5 +302,69 @@
     "source_note": "みのる化成 技術開発部の講義用スライド（前半）から切り出した画像",
     "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示",
     "copied_on": "2026-10-13"
+  },
+  {
+    "file": "assets/sr-duct.jpg",
+    "source_repository_path": "system/web/public/assets/duct.jpg",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（duct.jpg）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-spoiler.jpg",
+    "source_repository_path": "system/web/public/assets/spoiler.jpg",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（spoiler.jpg）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-stadium-seat.png",
+    "source_repository_path": "system/web/public/assets/stadium-seat.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（stadium-seat.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-stadium-1.png",
+    "source_repository_path": "system/web/public/assets/stadium-1.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（stadium-1.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-stadium-2.png",
+    "source_repository_path": "system/web/public/assets/stadium-2.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（stadium-2.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-stadium-3.png",
+    "source_repository_path": "system/web/public/assets/stadium-3.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（stadium-3.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-pier.png",
+    "source_repository_path": "system/web/public/assets/pier.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（pier.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/sr-pier-float.png",
+    "source_repository_path": "system/web/public/assets/pier-float.png",
+    "source_site": "https://github.com/xinntao/Real-ESRGAN",
+    "source_note": "元画像（pier-float.png）を Real-ESRGAN（RealESRGAN_x4plus、2倍）で超解像した画像。AIが細部を補うため、元の写真と細部が異なる場合がある",
+    "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
+    "copied_on": "2026-10-27"
   }
 ]

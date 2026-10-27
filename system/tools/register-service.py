@@ -17,7 +17,7 @@ for name, title, category, link in [
         'name': name, 'display_name': title, 'category': category,
         'badge_label': '講義' if category == 'webui' else '管理',
         'badge_type': 'app' if category == 'webui' else 'manage',
-        'description': '技術者と社会 / みのる化成 / 62ページ・90分 / 2画面対応',
+        'description': '技術者と社会 / みのる化成 / 67ページ・90分 / 2画面対応',
         'web_url': base + link, 'status': 'active', 'sort_order': 70,
         'project_key': 'kifu-kouza-2026', 'metadata_url': base + '/metadata.json',
     }

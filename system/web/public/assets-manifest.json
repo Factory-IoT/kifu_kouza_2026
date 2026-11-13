@@ -374,5 +374,12 @@
     "source_site": "https://github.com/xinntao/Real-ESRGAN",
     "permission": "2026-10-13 ユーザーが本講義用に前半スライドの内容の利用を指示（元画像の出典は元の素材一覧を参照）",
     "copied_on": "2026-10-27"
+  },
+  {
+    "file": "assets/takoyaki-cooking.png",
+    "source_note": "OpenAI image_genで生成した写実的な調理イメージ。実写記録ではない。",
+    "permission": "2026-11-13 ユーザーが31ページのたこ焼き画像追加を指示",
+    "copied_on": "2026-11-13",
+    "prompt": "Photorealistic close-up of takoyaki cooking in a black cast-iron pan, a hand turning a ball with a metal pick, realistic steam and warm light, portrait 4:5, no text or logos."
   }
 ]

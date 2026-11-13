@@ -680,6 +680,19 @@ const slides = [
   {
     "section": "後半 · 製造現場と情報",
     "presenter": "山下",
+    "minutes": 0,
+    "title": "動画：AIで究極のたこ焼きを焼く",
+    "layout": "video-slide",
+    "html": "<div class=\"lecture-video\"><iframe width=\"896\" height=\"504\" src=\"https://www.youtube.com/embed/KeaQLHUX7RQ?rel=0\" title=\"AIで究極のたこ焼きを焼く — YouTube動画\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><p class=\"caption\">再生にはインターネット接続が必要です。 <a href=\"https://www.youtube.com/watch?v=KeaQLHUX7RQ\" target=\"_blank\" rel=\"noopener\">YouTubeで開く</a></p></div>",
+    "notes": "ではね、たこ焼きに例えて話をしましたが、じゃあ、IoTとかAIを使ってどうやってたこ焼きを上手に作るか。最近、私の友人が面白い装置を作ったので動画を見てください。\n遊びで作った装置なので、本当に役に立つかどうかは謎ですが、最新のIoT、センシング、エッジAIなどを駆使すると、こんな装置も作ることができます。\n私たちの仕事はこれをもう少し真面目に、役に立つような仕組みを考えて作るということです。\n【進行】投影画面の動画をクリックして再生。視聴後に説明を続ける。動画視聴・説明の追加時間は未設定（既存ページの持ち時間は変更しない）。",
+    "sources": [
+      "https://www.youtube.com/watch?v=KeaQLHUX7RQ",
+      "講師提供の説明（2026-11-13）"
+    ]
+  },
+  {
+    "section": "後半 · 製造現場と情報",
+    "presenter": "山下",
     "sources": [
       "https://www.minorukasei.co.jp/",
       "講師提供の現場説明・講義内容（2026-10-12）"

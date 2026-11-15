@@ -1,0 +1,2 @@
+system/web/public/assets/tacoyaki.mp4 filter=lfs diff=lfs merge=lfs -text
+system/web/public/assets/minoru-kasei-intro-pop.mp4 filter=lfs diff=lfs merge=lfs -text

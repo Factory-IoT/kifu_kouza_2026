@@ -3,6 +3,13 @@ param(
 )
 $ErrorActionPreference = 'Stop'
 $repoRoot = (Resolve-Path (Join-Path $PSScriptRoot '../..')).Path
+# Refuse to package Git LFS pointer files in place of playable videos.
+foreach ($videoName in 'tacoyaki.mp4', 'minoru-kasei-intro-pop.mp4') {
+    $videoPath = Join-Path $repoRoot "system/web/public/assets/$videoName"
+    if (!(Test-Path -LiteralPath $videoPath) -or (Get-Item -LiteralPath $videoPath).Length -lt 1024) {
+        throw "Video missing or still a Git LFS pointer: $videoName. Run git lfs pull before packaging."
+    }
+}
 $stamp = Get-Date -Format 'yyyyMMdd-HHmmss-fff'
 $packageName = "kifu-kouza-local-$stamp"
 $packageRoot = Join-Path $OutputDirectory $packageName

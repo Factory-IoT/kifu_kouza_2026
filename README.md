@@ -16,7 +16,7 @@
 ## みのる化成 担当回
 
 講義用Webアプリ: [スライド・2画面発表](http://192.168.1.64:3110/) / [操作ガイド](http://192.168.1.64:3110/guide.html)。
-全69ページ・91分＋動画視聴・説明の目安。講師ウィンドウにセリフと次ページを表示し、両画面からページ送りできます。
+全69ページ・90分＋動画視聴・説明の目安。講師ウィンドウにセリフと次ページを表示し、両画面からページ送りできます。
 正本は `system/web/public/slides.js`、運用手順は `doc/operations/lecture-web.md` です。
 
 | 項目 | 内容 |
@@ -72,3 +72,10 @@ kifu_kouza_2026/
 
 - `data/2026_技術者と社会_スケジュール案_0428.pdf`（2026年4月28日 大学側より共有）
 - `data/岡大インターンシップ受入お願い.pdf`（2026年4月6日 岡山経済同友会より受領）
+
+## 別PCでの起動（動画込み）
+
+- 持ち出しZIPを全展開し、Python 3を導入したWindows PCで `start-local.cmd` を起動する。動画2本も同梱され、ネット接続なしで再生できる。
+- Gitから取得する場合は、Git LFSを導入して `git lfs install`、`git lfs pull` を実行した後、`system/tools/start-local.cmd` を起動する。
+- 持ち出しZIPの再作成は `powershell -NoProfile -ExecutionPolicy Bypass -File system/tools/package-local.ps1`。GitHubのソースZIPではなく、このスクリプトで作成したZIPを使う。
+- 詳細は `doc/operations/local-presentation.md` を参照。
